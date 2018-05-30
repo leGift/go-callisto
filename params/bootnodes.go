@@ -62,6 +62,7 @@ var CallistoMainnetBootnodes = []string{
 	"enode://094181735965f03a05379f8c9ef258cd8d119e13ff1bfe9aa2a7e113473b76043f8ea069fc34296643d257527a7ebc632c17b27da942a1f1e34a956b2820b9ef@52.79.151.194:30303",  // clopool.net
 	"enode://85031e6e5fcb30ab5ed288463445de95260a4078a3fe7facbf35fe472ca02b70d0b4dad64697d73feedab984ff2737bb1bfe520b289c88c5960a1e3843ef5491@13.209.18.37:30303",   // clopool.net
 	"enode://9fedfa9fddb8f2edda8ba25f3fa74b0a66c8393e90a3c8dae8fd41e417fddd9229611cac379467aa048e00937b55fda86d4fe841d41216c08a1d1965a77306a8@13.125.219.230:30303", // clopool.net
+	"enode://f5e7f848533fc7e0bccb5c81ecf255c04bcc6af3ea802e7304247faaaf39b39c4ff38f16aef13fa11952257fb399ac7027fbb0d97156954edd03755a548bf12e@109.110.37.200:30303", // farmine.net
 }
 
 // CallistoTestnetBootnodes are the enode URLs of the P2P bootstrap nodes for the
